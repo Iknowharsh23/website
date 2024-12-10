@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body {
     color: #333;
 }
 
-/* Header */
+
 header {
     background-color: #333;
     color: white;
@@ -44,7 +44,7 @@ header .nav-links li a:hover {
     text-decoration: underline;
 }
 
-/* Hero Section with gym background */
+
 .hero {
     background-image: url('https://www.avikalp.com/cdn/shop/products/MWZ3612_wallpaper1.jpg?v=1653229160'); /* Gym background image */
     background-size: cover;
@@ -78,7 +78,7 @@ header .nav-links li a:hover {
     background-color: #e64a19;
 }
 
-/* Membership Plans */
+
 .plans {
     text-align: center;
     padding: 60px 20px;
@@ -146,7 +146,7 @@ header .nav-links li a:hover {
     background-color: #218838;
 }
 
-/* Contact Form */
+
 .contact {
     background-color: #fff;
     padding: 60px 20px;
@@ -174,7 +174,7 @@ header .nav-links li a:hover {
     background-color: #e64a19;
 }
 
-/* Registration Form */
+
 .register {
     background-color: #f9f9f9;
     padding: 60px 20px;
@@ -202,7 +202,7 @@ header .nav-links li a:hover {
     background-color: #218838;
 }
 
-/* Footer */
+
 footer {
     background-color: #333;
     color: white;
